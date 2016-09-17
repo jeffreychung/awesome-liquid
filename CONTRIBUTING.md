@@ -2,12 +2,9 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-# The pull request should have a useful title. Pull requests with `Update readme.md` or similar will be closed right away.
 # Contribution Guidelines
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
-
-# The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed right away because I'm so tired of nobody reading this document. Please carefully read everything in `Adding to this list`.
 
 ## Table of Contents
 
@@ -19,6 +16,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 Please ensure your pull request adheres to the following guidelines:
 
+- The pull request should have a meaningful title. 
 - Search previous list items before making a new one, as yours may be a duplicate.
 - Make sure the list item is quality before submitting. 
 - Make sure the list item has a good succinct description.
