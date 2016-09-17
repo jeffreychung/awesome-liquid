@@ -5,8 +5,8 @@
 ## Content
 
 - [Documentation](#documentation)
-- [Templates](#templates)
-- [Articles & Blogs](#articles-&-blogs)
+- [Templates & Solutions](#<span>templates & solutions</span>)
+- [Articles & Blogs](#articles & blogs)
 - [Testing](#testing)
 - [Development](#development)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -22,8 +22,8 @@
 - [Mark Dunkley Cheat Sheet](http://cheat.markdunkley.com/)
 - [Liquid Wiki](https://github.com/Shopify/liquid/wiki)
 - [Nation Builder](http://nationbuilder.com/liquid_basics)
-- http://jekyll.tips/jekyll-cheat-sheet/
-## Templates
+
+## Templates & Solutions
 
 ## Articles & Blogs
 
@@ -54,4 +54,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law,  has waived all copyright and related or neighboring rights to this work.
