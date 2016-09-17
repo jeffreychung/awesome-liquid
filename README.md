@@ -22,7 +22,7 @@
 - [Mark Dunkley Cheat Sheet](http://cheat.markdunkley.com/)
 - [Liquid Wiki](https://github.com/Shopify/liquid/wiki)
 - [Nation Builder](http://nationbuilder.com/liquid_basics)
-
+- http://jekyll.tips/jekyll-cheat-sheet/
 ## Templates
 
 ## Articles & Blogs
@@ -46,6 +46,9 @@
 ## Miscellaneous
 
 - [Stackoverflow Liquid](http://stackoverflow.com/questions/tagged/liquid) - A goldmine of Q&A style knowledge
+- [Stackoverflow Github Pages](http://stackoverflow.com/questions/tagged/github-pages)
+- [Stackoverflow Jekyll](http://stackoverflow.com/questions/tagged/jekyll)
+
 
 ## License
 
