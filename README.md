@@ -5,8 +5,8 @@
 ## Content
 
 - [Documentation](#documentation)
-- [Templates & Solutions](#<span>templates & solutions</span>)
-- [Articles & Blogs](#articles & blogs)
+- <a href=[Templates & Solutions](#templates--solutions)
+- [Articles & Blogs](#articles--blogs)
 - [Testing](#testing)
 - [Development](#development)
 - [Related Awesome Lists](#related-awesome-lists)
