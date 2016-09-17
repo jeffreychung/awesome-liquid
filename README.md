@@ -5,7 +5,7 @@
 ## Content
 
 - [Documentation](#documentation)
-- <a href=[Templates & Solutions](#templates--solutions)
+- [Templates & Solutions](#templates--solutions)
 - [Articles & Blogs](#articles--blogs)
 - [Testing](#testing)
 - [Development](#development)
