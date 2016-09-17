@@ -7,20 +7,19 @@
 - [Documentation](#documentation)
 - [Templates & Solutions](#templates--solutions)
 - [Articles & Blogs](#articles--blogs)
-- [Testing](#testing)
-- [Development](#development)
+- [Testing & Development](#testing--development)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Miscellaneous](#miscellaneous)
 
 ## Documentation
 
-- [Shopify Doc](http://liquidmarkup.org/)
-- [Ruby Doc](http://www.rubydoc.info/gems/liquid/3.0.6)
-- [Liquid Reference](https://help.shopify.com/themes/liquid)
+- [Shopify Liquid Documentation](http://liquidmarkup.org/) - Official Shopify Standalone Liquid Reference
+- [Shopify Liquid Reference](https://help.shopify.com/themes/liquid) Official Shopify Liquid Reference for Shopify themes
+- [Shopify Liquid Cheat Sheet](https://www.shopify.ca/partners/shopify-cheat-sheet) Official Shopify Cheat Sheet
+- [Shopify Liquid Wiki](https://github.com/Shopify/liquid/wiki) - Official Shopify Liquid Wiki 
+- [Ruby Docs](http://www.rubydoc.info/gems/liquid/3.0.6)
 - [Jekyll Cheat Sheet](http://jekyll.tips/jekyll-cheat-sheet/)
-- [Shopify Cheat Sheet](https://www.shopify.ca/partners/shopify-cheat-sheet)
 - [Mark Dunkley Cheat Sheet](http://cheat.markdunkley.com/)
-- [Liquid Wiki](https://github.com/Shopify/liquid/wiki)
 - [Nation Builder](http://nationbuilder.com/liquid_basics)
 
 ## Templates & Solutions
@@ -30,12 +29,9 @@
 - [Katy Decorah](http://katydecorah.com/tags/#jekyll)
 - [Style Guide](http://ben.balter.com/jekyll-style-guide/)
 
-## Testing
+## Testing & Development
 
 - [Live Liquid](https://nquinlan.github.io/live-liquid/) - Real Time Online Editing
-
-## Development
-
 - [Github](https://github.com/Shopify/liquid)
 - [Ruby Gem](https://rubygems.org/gems/liquid)
 - [Inch CI](http://inch-ci.org/github/Shopify/liquid)
