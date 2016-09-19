@@ -44,7 +44,7 @@
 - [Stackoverflow Liquid](http://stackoverflow.com/questions/tagged/liquid) - A goldmine of Q&A style knowledge
 - [Stackoverflow Github Pages](http://stackoverflow.com/questions/tagged/github-pages)
 - [Stackoverflow Jekyll](http://stackoverflow.com/questions/tagged/jekyll)
-
+- [Node Liquid](https://github.com/sirlantis/liquid-node)
 
 ## License
 
