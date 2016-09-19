@@ -45,6 +45,7 @@
 - [Stackoverflow Github Pages](http://stackoverflow.com/questions/tagged/github-pages)
 - [Stackoverflow Jekyll](http://stackoverflow.com/questions/tagged/jekyll)
 - [Node Liquid](https://github.com/sirlantis/liquid-node)
+- [Textmate Bundle](https://github.com/Shopify/liquid-tmbundle)
 
 ## License
 
