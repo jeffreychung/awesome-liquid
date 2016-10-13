@@ -25,9 +25,8 @@
 ## Templates & Solutions
 
 ### Navigation
-- [jekyll-dynamic-menu](https://github.com/donirby/jekyll-dynamic-menu) - Dynamically generated hierarchical menu | [https://github.com/donirby](author) | https://gist.githubusercontent.com/simpyll/4d701ea73f711aff146124dc932b60c7/raw/a5fd09e80b3c5a9f3cd714194349bbc53f2aa84a/automenu.liquid](raw)
 
-## source: [https://raw.githubusercontent.com/donirby/jekyll-dynamic-menu-don-irby/gh-pages/_includes/automenu](raw code)
+<li><a href="https://github.com/donirby/jekyll-dynamic-menu">Jekyll Dynamic Menu - Dynamically Generated Hierarchical Menu</a><a href="https://github.com/donirby"><em>- Author</em></a><a href="https://gist.githubusercontent.com/simpyll/4d701ea73f711aff146124dc932b60c7/raw/a5fd09e80b3c5a9f3cd714194349bbc53f2aa84a/automenu.liquid"><em>- Raw</em></a></li>
 
 ## Articles & Blogs
 
