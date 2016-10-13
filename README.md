@@ -27,7 +27,6 @@
 ### Navigation
 
 <li><a href="https://github.com/donirby/jekyll-dynamic-menu">Jekyll Dynamic Menu </a>- Dynamically Generated Hierarchical Menu <a href="https://github.com/donirby"><em>- Author </em></a><a href="https://gist.githubusercontent.com/simpyll/4d701ea73f711aff146124dc932b60c7/raw/a5fd09e80b3c5a9f3cd714194349bbc53f2aa84a/automenu.liquid"><em>- Raw</em></a></li>
-
 <li><a href="https://github.com/eduardoboucas/jekyll-dynamic-menu">Generate Dynamic Menu </a>- Dynamic Menu Generation <a href="https://github.com/eduardoboucas"><em>- Author </em><a href="https://gist.githubusercontent.com/simpyll/479b47c3c6a9cf3d57f41cb7334bcee1/raw/9141a6224e98136c08ab8484acceee2b5f3184fb/dynamic-menu-generation.liquid"><em>- Raw</em></a></li>
 
 ## Articles & Blogs
