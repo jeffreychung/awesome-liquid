@@ -12,30 +12,29 @@
 
 ## Documentation
 
-- [Shopify Liquid Documentation](http://liquidmarkup.org/) - Official Shopify Standalone Liquid Reference
-- [Shopify Liquid Reference](https://help.shopify.com/themes/liquid) Official Shopify Liquid Reference for Shopify themes
-- [Shopify Liquid Cheat Sheet](https://www.shopify.ca/partners/shopify-cheat-sheet) Official Shopify Cheat Sheet
-- [Shopify Liquid Wiki](https://github.com/Shopify/liquid/wiki) - Official Shopify Liquid Wiki 
-- [Ruby Docs](http://www.rubydoc.info/gems/liquid/3.0.6) - Ruby Documentation for Liquid 
-- [Jekyll Cheat Sheet](http://jekyll.tips/jekyll-cheat-sheet/) - Cheet Sheet #1
-- [Mark Dunkley Cheat Sheet](http://cheat.markdunkley.com/) - Cheet Sheet #2
-- [Nation Builder](http://nationbuilder.com/liquid_basics) - Cheet Sheet #3
+- [Shopify Liquid Documentation](http://liquidmarkup.org/) - Official Shopify standalone Liquid reference.
+- [Shopify Liquid Reference](https://help.shopify.com/themes/liquid) Official Shopify Liquid reference for Shopify themes.
+- [Shopify Liquid Cheat Sheet](https://www.shopify.ca/partners/shopify-cheat-sheet) Official Shopify cheat sheet.
+- [Shopify Liquid Wiki](https://github.com/Shopify/liquid/wiki) - Official Shopify Liquid wiki.
+- [Ruby Docs](http://www.rubydoc.info/gems/liquid/3.0.6) - Ruby documentation for Liquid.
+- [Jekyll Cheat Sheet](http://jekyll.tips/jekyll-cheat-sheet/) - Cheet sheet.
+- [Mark Dunkley Cheat Sheet](http://cheat.markdunkley.com/) - Cheet sheet.
+- [Nation Builder](http://nationbuilder.com/liquid_basics) - Cheet sheet.
 
 ## Templates & Solutions
 
 ### Navigation
 
-<li><a href="https://github.com/donirby/jekyll-dynamic-menu">Jekyll Dynamic Menu </a>- Dynamically Generated Hierarchical Menu <a href="https://github.com/donirby"><em>- Author </em></a><a href="https://gist.githubusercontent.com/simpyll/4d701ea73f711aff146124dc932b60c7/raw/a5fd09e80b3c5a9f3cd714194349bbc53f2aa84a/automenu.liquid"><em>- Raw</em></a></li>
-<li><a href="https://github.com/eduardoboucas/jekyll-dynamic-menu">Generate Dynamic Menu </a>- Dynamic Menu Generation <a href="https://github.com/eduardoboucas"><em>- Author </em><a href="https://gist.githubusercontent.com/simpyll/479b47c3c6a9cf3d57f41cb7334bcee1/raw/9141a6224e98136c08ab8484acceee2b5f3184fb/dynamic-menu-generation.liquid"><em>- Raw</em></a></li>
+<li><a href="https://github.com/donirby/jekyll-dynamic-menu">Jekyll Dynamic Menu </a>- Dynamically generated hierarchical menu</li>
 
 ## Articles & Blogs
 
-- [Katy Decorah](http://katydecorah.com/tags/#jekyll)
-- [Style Guide](http://ben.balter.com/jekyll-style-guide/)
+- [Katy Decorah](http://katydecorah.com/tags/#jekyll) - Katy Decorah's blog.
+- [Style Guide](http://ben.balter.com/jekyll-style-guide/) - A style guide for Jekyll's Liquid.
 
 ## Testing & Development
 
-- [Live Liquid](https://nquinlan.github.io/live-liquid/) - Real Time Online Editing
+- [Live Liquid](https://nquinlan.github.io/live-liquid/) - Real time online liquid editing.
 - [Github](https://github.com/Shopify/liquid)
 - [Ruby Gem](https://rubygems.org/gems/liquid)
 - [Inch CI](http://inch-ci.org/github/Shopify/liquid)
@@ -43,9 +42,8 @@
 
 ## Miscellaneous
 
-- [Stackoverflow Liquid](http://stackoverflow.com/questions/tagged/liquid) - A goldmine of Q&A style knowledge
-- [Stackoverflow Github Pages](http://stackoverflow.com/questions/tagged/github-pages)
-- [Stackoverflow Jekyll](http://stackoverflow.com/questions/tagged/jekyll)
+- [Stackoverflow Liquid](http://stackoverflow.com/questions/tagged/liquid) - A goldmine of Q&A style knowledge for Liquid.
+- [Stackoverflow Jekyll](http://stackoverflow.com/questions/tagged/jekyll) - A goldmine of Q&A style knowledge for Jekyll and Liquid.
 - [Node Liquid](https://github.com/sirlantis/liquid-node)
 - [Textmate Bundle](https://github.com/Shopify/liquid-tmbundle)
 
