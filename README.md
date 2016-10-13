@@ -8,7 +8,6 @@
 - [Templates & Solutions](#templates--solutions)
 - [Articles & Blogs](#articles--blogs)
 - [Testing & Development](#testing--development)
-- [Related Awesome Lists](#related-awesome-lists)
 - [Miscellaneous](#miscellaneous)
 
 ## Documentation
@@ -41,8 +40,6 @@
 - [Ruby Gem](https://rubygems.org/gems/liquid)
 - [Inch CI](http://inch-ci.org/github/Shopify/liquid)
 - [Travis CI](https://travis-ci.org/Shopify/liquid)
-
-## Related Awesome Lists
 
 ## Miscellaneous
 
