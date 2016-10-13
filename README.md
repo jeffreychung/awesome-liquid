@@ -17,12 +17,17 @@
 - [Shopify Liquid Reference](https://help.shopify.com/themes/liquid) Official Shopify Liquid Reference for Shopify themes
 - [Shopify Liquid Cheat Sheet](https://www.shopify.ca/partners/shopify-cheat-sheet) Official Shopify Cheat Sheet
 - [Shopify Liquid Wiki](https://github.com/Shopify/liquid/wiki) - Official Shopify Liquid Wiki 
-- [Ruby Docs](http://www.rubydoc.info/gems/liquid/3.0.6)
-- [Jekyll Cheat Sheet](http://jekyll.tips/jekyll-cheat-sheet/)
-- [Mark Dunkley Cheat Sheet](http://cheat.markdunkley.com/)
-- [Nation Builder](http://nationbuilder.com/liquid_basics)
+- [Ruby Docs](http://www.rubydoc.info/gems/liquid/3.0.6) - Ruby Documentation for Liquid 
+- [Jekyll Cheat Sheet](http://jekyll.tips/jekyll-cheat-sheet/) - Cheet Sheet #1
+- [Mark Dunkley Cheat Sheet](http://cheat.markdunkley.com/) - Cheet Sheet #2
+- [Nation Builder](http://nationbuilder.com/liquid_basics) - Cheet Sheet #3
 
 ## Templates & Solutions
+
+### Navigation
+- [jekyll-dynamic-menu](https://github.com/donirby/jekyll-dynamic-menu) - Dynamically generated hierarchical menu | [https://github.com/donirby](author) | https://gist.githubusercontent.com/simpyll/4d701ea73f711aff146124dc932b60c7/raw/a5fd09e80b3c5a9f3cd714194349bbc53f2aa84a/automenu.liquid](raw)
+
+## source: [https://raw.githubusercontent.com/donirby/jekyll-dynamic-menu-don-irby/gh-pages/_includes/automenu](raw code)
 
 ## Articles & Blogs
 
